@@ -1,0 +1,133 @@
+.sforwoobox {
+    position:  relative !important;
+    width: 97% !important;
+	box-sizing: border-box !important;
+   	overflow: hidden !important;
+	max-width: 900px !important;
+	min-width: 250px !important;
+	border: 1px solid !important;
+	margin-right: 1.5% !important;
+	margin-left: 1.5% !important;
+	margin-bottom: 12px !important;
+	margin-top: 7px !important;
+	padding: 1% !important;
+	border-radius: 3.5px !important;
+	float: none !important;
+	color: black !important;
+	background-color: white !important;
+	background-image: none !important;
+	font-size: 15px !important;
+	font-family: arial !important;
+}
+
+
+.sforwooleft {
+	float: left !important;
+    position: relative !important;  
+	width: 4% !important; 
+	min-width: 20px !important;
+	max-width: 50px !important;
+	background-color: white !important;
+	background-image: none !important;
+	border: none !important;
+	font-size: 15px !important;
+	font-family: arial !important;
+	line-height: 20px !important;
+}
+
+.sforwoomiddle .link {
+	float: none !important;
+	background-color: white !important;
+	background-image: none !important;
+	border: none !important;
+}
+
+.sforwoomiddle .link a {
+	background-color: white !important;
+	background-image: none !important;
+	line-height: 20px !important;
+}
+
+.sforwooleft input#sforwoo_custom_checkbox {
+	position: relative !important;
+	padding: 0 !important;
+	margin: 0 !important;
+	width: 100% !important;
+	vertical-align: 0 !important;
+    float: none !important;
+	font-size: 15px !important;
+	font-family: arial !important;
+	line-height: 20px !important;
+}
+
+.sforwooleft p#sforwoo_custom_checkbox_field {
+	padding: 0 !important;
+	margin: 0 !important;
+	width: 100% !important;
+    float: none !important;
+	background-color: white !important;
+	background-image: none !important;
+	border: none !important;
+	font-size: 15px !important;
+	font-family: arial !important;
+	line-height: 20px !important;
+}
+
+.sforwooleft p#sforwoo_custom_checkbox_field .checkbox {
+	width: 100% !important;
+    display: inline-block !important;
+	padding: 0 !important;
+	margin: 0 !important;
+	float: none !important;
+	background-color: white !important;
+	background-image: none !important;
+	border: none !important;
+	font-size: 15px !important;
+	font-family: arial !important;
+	line-height: 24px !important;
+}
+
+.sforwoologo {
+    background-size: contain !important;
+    background-repeat: no-repeat !important;
+    background-position: center center !important;
+    height: 85% !important;
+    position: absolute !important;
+    right: 0 !important;
+    top: 5% !important;
+    width: 20% !important;
+	float: none !important;
+	border: none !important;
+}
+
+.sforwoobox .sforwoomiddle {
+	position: relative !important;
+    float:left !important;
+    width: 73% !important;  
+    color: black !important;
+    font-family: Arial, sans-serif !important;
+    font-size: 13px !important;
+	margin-left: 2px !important;
+	margin-right: 2px !important;
+	background-color: white !important;
+	background-image: none !important;
+	border: none !important;
+	letter-spacing: 0 !important;
+	word-spacing: 0 !important;
+	line-height: 20px !important;
+}
+
+.sforwoobox a{
+    color: black !important;
+    font-family: Arial, sans-serif !important;
+    font-style: italic !important;
+    font-size: 12px !important;
+    font-weight: 500 !important;
+    white-space: nowrap !important;
+	border: none !important;
+}
+
+#sforwoo_custom_checkbox_field span.optional {
+	visibility: hidden !important;
+	display: none !important;
+ }
